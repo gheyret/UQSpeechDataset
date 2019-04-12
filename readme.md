@@ -1,7 +1,7 @@
 # UQ Awaz Ambiri
 
 **Téren Öginish (Deep Learning)** téxniki arqiliq Tékistni Awazgha Aylandurush (Text To Speech) tetqiqatida Uyghurche Awaz Ambirining bolmasliqidek boshluqni toldurushni meqset qilip yasaldi. Bu awaz ambirini ishlitishte héchqandaq cheklime yoq. Peqetla ishletkende **«UQ Awaz Ambiri»** ishlitildi dégenni maqale yaki mehsulatqa qoshushni iltimas qilimen.</br>
-Mezkur awaz ambiri **Exmed Pida’iy** oqughan, **Merhum Muhemmed Sali Damolla** terjime qilghan **Uyghurche Qur’an Kerimining** awaz we tékist höjjiti asasida yasaldi. Merhum Muhemmed Sali Damollining yatqan yéri jennet bolsun, Exmed Pida’iy ependige kop rehmet. Bularning emgiki bolmighan bolsa, bu ambarmu yasalmighan, yuqirida tilgha alghan boshluq, boshluq péti qéliwergen bolar idi.
+Mezkur awaz ambiri **Exmed Pida’iy** oqughan, **Merhum Muhemmed Sali Damolla** terjime qilghan **[Uyghurche Qur’an Kerimining awaz](http://www.truemuslims.net/Uyghur.html)** we tékist höjjiti asasida yasaldi. Merhum Muhemmed Sali Damollining yatqan yéri jennet bolsun, Exmed Pida’iy ependige kop rehmet. Bularning emgiki bolmighan bolsa, bu ambarmu yasalmighan, yuqirida tilgha alghan boshluq, boshluq péti qéliwergen bolar idi.
 Bu awaz ambiri 16187 dane awaz höjjiti we unigha mas tékisttin terkib tapqan bolup, awazning eng uzuni 10 sékunt. Jem’iy awazning uzunluqi 28 sa’et (her bir awazning aldi keynidiki jimliqmu buning ichide).
 
 ## Höjjetning pichimi
