@@ -1,1 +1,1 @@
-Uyghur singgle speaker data set for TTS based on Uyghur translation of Quran
+Uyghur singgle speaker dataset based on Uyghur translation of Quran
