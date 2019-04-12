@@ -6,13 +6,13 @@ Bu awaz ambiri 16187 dane awaz höjjiti we unigha mas tékisttin terkib tapqan b
 
 ## Höjjetning pichimi
 
-1.	Tékist höjjiti (metadata.csv) UTF-8 kod sistémisida saqlanghan bolup, her bir qur bir awaz höjjitige mas kélidu. Her bir qurda jem’iy 4 bölek bolup, 
-- 	Birinchi bölek: höjjetning kimliki. uninggha. wav ni qoshsa awaz höjjitining ismi hasil bolidu.
-- 	Ikkinchi bölek: Uyghur Ereb Yéziqi (UEY) diki tékisti
-- 	Üchinchi bölek: Uyghur Latin Yéziqi (ULY) diki tékisti.
-- 	Tötinchi bölek: Uyghur Slawyan Yéziqi (USY) diki tékisti.
+- 1.	Tékist höjjiti (metadata.csv) UTF-8 kod sistémisida saqlanghan bolup, her bir qur bir awaz höjjitige mas kélidu. Her bir qurda jem’iy 4 bölek bolup, 
+  - 	Birinchi bölek: höjjetning kimliki. uninggha. wav ni qoshsa awaz höjjitining ismi hasil bolidu.
+  - 	Ikkinchi bölek: Uyghur Ereb Yéziqi (UEY) diki tékisti
+  - 	Üchinchi bölek: Uyghur Latin Yéziqi (ULY) diki tékisti.
+  - 	Tötinchi bölek: Uyghur Slawyan Yéziqi (USY) diki tékisti.
 
-2.	Awaz höjjiti (wavs) qisquchida bolup, taq qanal, 16 bitliq PCM WAV pichimida saqlanghan. Sample rate 22050 Hz.
+- 2.	Awaz höjjiti (wavs) qisquchida bolup, taq qanal, 16 bitliq PCM WAV pichimida saqlanghan. Sample rate 22050 Hz.
 
 ## Bashqilar:
 Uyghurche Qur’an kerimining awazliq höjjiti(114 dane) ni programma arqiliq 10 sékunttin chong bolmighan parchigha bölgendin kéyin, özüm yasighan **[AwazAmbiriQorali](https://github.com/gheyret/AwazAmbiriQorali)** (awaz we tékistni maslashturush) arqiliq, Qur’an Kerimining Uyghurche tékistni ishlitip, awaz bilen tékistni birmu bir maslashturup yasap chiqildi. Bu ishqa Dilshat Abla, Osman Tursun, Rustem Mexet qérindashlirimiz yardemde boldi. Andin özüm bashtin axir hemmini yene bir qétim tekshürüp chiqtim(Bir awaz bilen shuninggha mas kélidighan qur birdekmu emesmu). Yuqiriqi 3 qérindishimizgha chin könglümdin rehmet éytimen.
