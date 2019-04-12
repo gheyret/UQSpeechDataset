@@ -7,10 +7,10 @@ Bu awaz ambiri 16187 dane awaz höjjiti we unigha mas tékisttin terkib tapqan b
 ## Höjjetning pichimi
 
 1.	Tékist höjjiti (metadata.csv) UTF-8 kod sistémisida saqlanghan bolup, her bir qur bir awaz höjjitige mas kélidu. Her bir qurda jem’iy 4 bölek bolup, 
-- 	Birinchi bölek: höjjetning kimliki. uninggha. wav ni qoshsa awaz höjjitining ismi hasil bolidu.
-- 	Ikkinchi bölek: Uyghur Ereb Yéziqi (UEY) diki tékisti
-- 	Üchinchi bölek: Uyghur Latin Yéziqi (ULY) diki tékisti.
-- 	Tötinchi bölek: Uyghur Slawyan Yéziqi (USY) diki tékisti.
+- 	Birinchi bölek: höjjetning kimliki. uninggha. wav ni qoshsa awaz höjjitining ismi hasil bolidu.
+- 	Ikkinchi bölek: Uyghur Ereb Yéziqi (UEY) diki tékisti
+- 	Üchinchi bölek: Uyghur Latin Yéziqi (ULY) diki tékisti.
+- 	Tötinchi bölek: Uyghur Slawyan Yéziqi (USY) diki tékisti.
 
 2.	Awaz höjjiti (wavs) qisquchida bolup, taq qanal, 16 bitliq PCM WAV pichimida saqlanghan. Sample rate 22050 Hz.
 
