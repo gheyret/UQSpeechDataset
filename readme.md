@@ -19,3 +19,8 @@ Uyghurche Qur’an kerimining awazliq höjjiti(114 dane) ni programma arqiliq 10
  - Tékist terkibidiki sanlar pütünley oqulushigha aylanduruldi (12 dégenni on ikki dep). 
  - Tetqiqatchilargha qulay bolsun üchün tékisti Uyghurchining UEY,ULY,USY din ibaret 3 xil shekilide teminlendi.
  - Yene In’glizche **[The LJ Speech Dataset](https://keithito.com/LJ-Speech-Dataset/)** bilen oxshash qurulma ishlitildi. 
+
+## Chüshürüsh
+ - [Google Driver](https://drive.google.com/file/d/1sqcMf0Gl5FEiURQCQAV1SWW4R4f_VQt2/view?usp=sharing) din. (2.9 GB, 7z pichimda)
+ - [Kenjisoft](http://www.kenjisoft.com/UQSpeech.7z) din. (2.9 GB, 7z pichimda)
+ 
