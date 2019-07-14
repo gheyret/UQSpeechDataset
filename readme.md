@@ -25,9 +25,9 @@ Uyghurche Qur’an kerimining awazliq höjjiti(114 dane) ni programma arqiliq 10
  - [Kenjisoft](http://www.kenjisoft.com/UQSpeech.7z) din. (2.9 GB, 7z pichimda)
  
 
-@misc{UQSpeech,
-  author       = {Gheyret Kenji},
-  title        = {UQ Awaz Ambiri},
-  howpublished = {\url{https://github.com/gheyret/UQSpeechDataset/}},
-  year         = 2019
-}
+    {UQSpeech,
+        author       = {Gheyret Kenji},
+        title        = {UQ Awaz Ambiri},
+        howpublished = {\url{https://github.com/gheyret/UQSpeechDataset/}},
+        year         = 2019
+    }
