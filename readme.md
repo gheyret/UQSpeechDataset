@@ -28,7 +28,7 @@ Uyghurche Qur’an kerimining awazliq höjjiti(114 dane) ni programma arqiliq 10
     {UQSpeech,
         author       = {Gheyret Kenji},
         title        = {UQ Awaz Ambiri},
-        howpublished = {\url{https://github.com/gheyret/UQSpeechDataset/}},
+        howpublished = {https://github.com/gheyret/UQSpeechDataset/},
         year         = 2019
     }
 ```
