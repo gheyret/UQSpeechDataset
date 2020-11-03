@@ -22,7 +22,7 @@ Uyghurche Qur’an kerimining awazliq höjjiti(114 dane) ni programma arqiliq 10
 
 ## Chüshürüsh
  - [Google Driver](https://drive.google.com/file/d/1sqcMf0Gl5FEiURQCQAV1SWW4R4f_VQt2/view?usp=sharing) din. (2.9 GB, 7z pichimda)
- - [Kenjisoft](http://www.kenjisoft.com/UQSpeech.7z) din. (2.9 GB, 7z pichimda)
+ - [Kenjisoft](https://www.kenjisoft.com/UQSpeech.7z) din. (2.9 GB, 7z pichimda)
  
 ```
     {UQSpeech,
